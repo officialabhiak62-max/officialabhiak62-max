@@ -1,1 +1,1 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/abhikaran-Bhagat](https://www.linkedin.com/in/abhikaran-bhagat-402464362?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/abhikaran-bhagat-402464362/)
